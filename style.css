@@ -1,0 +1,23 @@
+:root {
+    --bgcolour: #101010;
+    --teal: #33a8c7;
+    --blue: #52e3e1;
+    --green: #a0e426;
+    --yellow: #fdf148;
+    --orange: #ffab00;
+    --salmon: #f77976;
+    --pink: #f050ae;
+    --lilac: #d883ff;
+    --purple: #9336fd;
+}
+
+* {
+    background-color: var(--bgcolour);
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+p {
+    font-family: 'Noto Sans JP', sans-serif;
+}
