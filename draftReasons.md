@@ -10,3 +10,5 @@
 - You said that you were in an abusive relationship because I called you "Sparkles the Magic Monkey."
 - You sent a "Hello?? You there??" type of message when I didn't respond literally immediately.
 - You asked me, "What's BioShack?"
+
+(Wait, these were supposed to be generic, otherwise what's the point... TODO: Fix this!)
