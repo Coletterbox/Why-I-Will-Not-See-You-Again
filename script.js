@@ -17,7 +17,12 @@ const reasonsArray = [
     "I hate you.",
     "You remind me of Patrick Bateman.",
     "You're painfully unfunny and you act like it's my fault that I can't convincingly laugh at things that are just... not.",
-    "Your Hitler Youth haircut."
+    "Your Hitler Youth haircut.",
+    "I'm sorry; who are you?",
+    "You're a literal sex offender.",
+    "You told a whole bunch of random people that I was your girlfriend, even though I repeatedly told you otherwise. You met my boyfriend! He was nice to you!!",
+    "You tried to use CBT to convince me that the only reason I didn't want to be around you was that I was too negative, when you really should know that the reason that I don't want to be around you is the child porn.",
+    "I always feel like you're about to go home and write a greentext story about me."
 ];
 
 // const reasonsArray = ["test"];
