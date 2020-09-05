@@ -13,7 +13,11 @@ const reasonsArray = [
     "You said that you were in an abusive relationship because I called you \"Sparkles the Magic Monkey.\"",
     "You sent a \"Hello?? You there??\" type of message when I didn't respond literally immediately.",
     "You asked me, \"What's BioShack?\"",
-    "Your breath."
+    "Your breath.",
+    "I hate you.",
+    "You remind me of Patrick Bateman.",
+    "You're painfully unfunny and you act like it's my fault that I can't convincingly laugh at things that are just... not.",
+    "Your Hitler Youth haircut"
 ];
 
 function displayText() {
