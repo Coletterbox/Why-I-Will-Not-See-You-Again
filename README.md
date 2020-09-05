@@ -17,3 +17,4 @@ If the reason you get doesn't sound like you, you can just take another spin! :)
 - [ ] Change the button styling.
 - [ ] Fix contrast and aesthetic issues caused by the background colours.
 - [x] Check that the last items of the arrays are being accessed.
+- [ ] Prevent array items from being chosen if they were recently used.
