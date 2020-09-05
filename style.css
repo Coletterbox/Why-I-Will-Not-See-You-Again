@@ -15,9 +15,18 @@
     background-color: var(--bgcolour);
     color: #ffffff;
     text-align: center;
-    font-family: 'Noto Sans JP', sans-serif;
+    /* margin: 2em; */
+    /* top: 30%; */
 }
 
 p {
+    padding: 2em;
+}
+
+.text {
     font-family: 'Noto Sans JP', sans-serif;
+}
+
+#button {
+    padding: 2em;
 }
