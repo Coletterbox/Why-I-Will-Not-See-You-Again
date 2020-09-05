@@ -21,12 +21,26 @@
 
 p {
     padding: 2em;
+    font-size: 2em;
+}
+
+#title {
+    padding: 2em;
+    font-size: 3em;
+    /* outline-color: white;
+    outline-width: 1px; */
 }
 
 .text {
     font-family: 'Noto Sans JP', sans-serif;
+    font-size: 3em;
 }
 
 #button {
     padding: 2em;
+    bottom: 30%;
+}
+
+#refresh {
+    font-size: 0.5em;
 }
