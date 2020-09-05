@@ -79,8 +79,17 @@ function displayText() {
     }
 }
 
+let lastColour;
+let currentColour;
+
 function changeBackground() {
-    document.body.style.backgroundColor = randomArrayItem(coloursArray);
+    lastColour = currentColour;
+    currentColour = randomArrayItem(coloursArray);
+    if (currentColour === lastColour) {
+        changeBackground();
+    } else {
+        document.body.style.backgroundColor = currentColour;
+    }
     // document.body.style.backgroundColor = "#9336fd";
     // document.body.style.backgroundColor = "red";
 }
