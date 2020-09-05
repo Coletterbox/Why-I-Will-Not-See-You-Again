@@ -17,7 +17,7 @@ const reasonsArray = [
     "I hate you.",
     "You remind me of Patrick Bateman.",
     "You're painfully unfunny and you act like it's my fault that I can't convincingly laugh at things that are just... not.",
-    "Your Hitler Youth haircut"
+    "Your Hitler Youth haircut."
 ];
 
 function displayText() {
