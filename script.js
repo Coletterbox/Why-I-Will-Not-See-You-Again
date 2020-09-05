@@ -5,7 +5,7 @@ function randomArrayItem(array) {
 const testArray = ["1", "2", "3"];
 
 function displayText() {
-    document.getElementById("reason").textContent = "test";
+    document.getElementById("reason").textContent = randomArrayItem(testArray);
 }
 
 function runFunctions() {
