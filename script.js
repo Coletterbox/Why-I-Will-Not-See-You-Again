@@ -66,8 +66,17 @@ const coloursArray = [
     "#780c56"
 ]
 
+let lastReason;
+let currentReason;
+
 function displayText() {
-    document.getElementById("reason").textContent = randomArrayItem(reasonsArray);
+    lastReason = currentReason;
+    currentReason = randomArrayItem(reasonsArray);
+    if (currentReason === lastReason) {
+        displayText();
+    } else {
+        document.getElementById("reason").textContent = currentReason;
+    }
 }
 
 function changeBackground() {
