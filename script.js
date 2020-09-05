@@ -20,13 +20,34 @@ const reasonsArray = [
     "Your Hitler Youth haircut."
 ];
 
+// const reasonsArray = ["test"];
+
+const coloursArray = [
+    "#33a8c7",
+    "#52e3e1",
+    "#a0e426",
+    "#fdf148",
+    "#ffab00",
+    "#f77976",
+    "#f050ae",
+    "#d883ff",
+    "#9336fd"
+]
+
 function displayText() {
     document.getElementById("reason").textContent = randomArrayItem(reasonsArray);
+}
+
+function changeBackground() {
+    document.body.style.backgroundColor = randomArrayItem(coloursArray);
+    // document.body.style.backgroundColor = "#9336fd";
+    // document.body.style.backgroundColor = "red";
 }
 
 function runFunctions() {
     randomArrayItem(reasonsArray);
     displayText();
+    changeBackground();
 }
 
 window.onload = runFunctions();

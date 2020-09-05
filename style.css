@@ -12,7 +12,7 @@
 }
 
 * {
-    background-color: var(--bgcolour);
+    /* background-color: var(--bgcolour); */
     color: #ffffff;
     text-align: center;
     /* margin: 2em; */
