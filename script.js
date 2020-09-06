@@ -49,7 +49,11 @@ const reasonsArray = [
     "...you tried to use CBT to convince me that the only reason I didn't want to be around you was that I was too negative, when you really should know that the reason that I don't want to be around you is the child porn.",
     "...I always feel like you're about to go home and write a greentext story about me.",
     "...tomorrow is Monday and I just blehhhhhhhhhh-",
-    "...I don't want to."
+    "...I don't want to.",
+    "...you intentionally puked in my sink.",
+    "...FUCKING UUUUUUUUGGGGGGGGHHHHH. FUCK.",
+    "...just, no.",
+    "...I find you upsetting."
 ];
 
 // const reasonsArray = ["test"];
