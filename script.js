@@ -53,7 +53,12 @@ const reasonsArray = [
     "...you intentionally puked in my sink.",
     "...FUCKING UUUUUUUUGGGGGGGGHHHHH. FUCK.",
     "...just, no.",
-    "...I find you upsetting."
+    "...I find you upsetting.",
+    "...you told me you liked me better on \[redacted\].",
+    "...you're too pushy.",
+    "...you look too much like me.",
+    "...you keep making the same \"joke\" about how I probably don't love you. Yeah, I don't love you. Fucking sue me.",
+    "...you told me that I was \"the best of both worlds\" because of my race, and went into disturbing detail about why."
 ];
 
 // const reasonsArray = ["test"];
