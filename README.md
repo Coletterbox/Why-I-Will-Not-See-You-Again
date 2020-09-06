@@ -14,7 +14,9 @@ If the reason you get doesn't sound like you, you can just take another spin! :)
 - [x] Make the background colour change at random.
 - [ ] Add reasons that are less... weirdly specific.
 - [ ] Fix the layout.
-- [ ] Change the button styling.
-- [ ] Fix contrast and aesthetic issues caused by the background colours.
+- [x] Change the button styling.
+- [x] Fix contrast and aesthetic issues caused by the background colours.
 - [x] Check that the last items of the arrays are being accessed.
-- [ ] Prevent array items from being chosen if they were recently used.
+- [x] Prevent array items from being chosen twice in a row.
+- [ ] Check accessibility.
+- [ ] Check responsiveness.
