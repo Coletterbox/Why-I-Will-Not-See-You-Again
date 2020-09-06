@@ -53,3 +53,7 @@ p {
     -moz-box-shadow: 3px 3px 20px 0px rgba(0,0,0,0.8);
     box-shadow: 3px 3px 20px 0px rgba(0,0,0,0.8);
 }
+
+#refresh:hover {
+    opacity: 0.8;
+}
