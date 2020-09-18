@@ -58,7 +58,10 @@ const reasonsArray = [
     "...you're too pushy.",
     "...you look too much like me.",
     "...you keep making the same \"joke\" about how I probably don't love you. Yeah, I don't love you. Fucking sue me.",
-    "...you told me that I was \"the best of both worlds\" because of my race, and went into disturbing detail about why."
+    "...you told me that I was \"the best of both worlds\" because of my race, and went into disturbing detail about why.",
+    "...your breath smells like shit in the most repulsively literal way. This is not an exaggeration. I cannot stress this enough.",
+    "...you really don't seem to understand that it's weird if you pay me.",
+    "...you're whiny."
 ];
 
 // const reasonsArray = ["test"];
