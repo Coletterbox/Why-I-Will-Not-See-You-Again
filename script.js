@@ -66,7 +66,10 @@ const reasonsArray = [
     "...you get angry when I text other people.",
     "...you \"accidentally\" kicked me in the head repeatedly to check if I was really asleep.",
     "...I'm just having a really rough time. It's not you.\n\nJust kidding. You suck.",
-    "...you don't want to actually try. You just want to be broken together, but I'm not broken."
+    "...you don't want to actually try. You just want to be broken together, but I'm not broken.",
+    "...you think that the funniest kind of humour is what you call \"racial humour\", but you don't manage the \"humour\" part, so you're actually just racist.",
+    "...you loaned someone your gun because they wanted to threaten someone.",
+    "...you try really hard to seem intelligent, and it's obnoxious."
 ];
 
 // const reasonsArray = ["test"];
