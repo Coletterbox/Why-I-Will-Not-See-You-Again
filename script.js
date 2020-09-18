@@ -73,8 +73,6 @@ const reasonsArray = [
     "...you try really hard to seem intelligent, and it's obnoxious."
 ];
 
-// const reasonsArray = ["test"];
-
 // alternative colours
 // const coloursArray = [
 //     "#33a8c7",
