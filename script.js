@@ -64,7 +64,9 @@ const reasonsArray = [
     "...you're whiny.",
     "...I thought that the awful shit you said about black people was a terrible attempt at \"edgy\" humour, but now you're talking about wanting to be a police officer.",
     "...you get angry when I text other people.",
-    "...you \"accidentally\" kicked me in the head repeatedly to check if I was really asleep."
+    "...you \"accidentally\" kicked me in the head repeatedly to check if I was really asleep.",
+    "...I'm just having a really rough time. It's not you.\n\nJust kidding. You suck.",
+    "...you don't want to actually try. You just want to be broken together, but I'm not broken."
 ];
 
 // const reasonsArray = ["test"];
