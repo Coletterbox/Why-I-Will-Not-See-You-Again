@@ -61,7 +61,10 @@ const reasonsArray = [
     "...you told me that I was \"the best of both worlds\" because of my race, and went into disturbing detail about why.",
     "...your breath smells like shit in the most repulsively literal way. This is not an exaggeration. I cannot stress this enough.",
     "...you really don't seem to understand that it's weird if you pay me.",
-    "...you're whiny."
+    "...you're whiny.",
+    "...I thought that the awful shit you said about black people was a terrible attempt at \"edgy\" humour, but now you're talking about wanting to be a police officer.",
+    "...you get angry when I text other people.",
+    "...you \"accidentally\" kicked me in the head repeatedly to check if I was really asleep."
 ];
 
 // const reasonsArray = ["test"];
