@@ -41,6 +41,11 @@ p {
     outline-width: 1px; */
 }
 
+#dice {
+    opacity: 0.9;
+    padding: 1em;
+}
+
 .text {
     font-family: 'Noto Sans JP', sans-serif;
     font-size: 3em;
