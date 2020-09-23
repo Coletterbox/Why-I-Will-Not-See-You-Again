@@ -45,7 +45,11 @@ const reasonsArray = [
     "...you don't want to actually try. You just want to be broken together, but I'm not broken.",
     "...you think that the funniest kind of humour is what you call \"racial humour\", but you don't manage the \"humour\" part, so you're actually just racist.",
     "...you loaned someone your gun because they wanted to threaten someone.",
-    "...you try really hard to seem intelligent, and it's obnoxious."
+    "...you try really hard to seem intelligent, and it's obnoxious.",
+    "...you said that you didn't understand my \"accent.\" Why the fuck did you ask me out if you didn't understand what I was saying?",
+    "...you're so awkward.",
+    "...you're boring. So am I, but it doesn't mean that I'm obligated to put up with this.",
+    "...that evening with you genuinely felt like some kind of filibuster was taking place."
 ];
 
 // alternative colours
