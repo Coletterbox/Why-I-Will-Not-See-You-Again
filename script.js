@@ -40,7 +40,6 @@ const reasonsArray = [
     "...I thought that the awful shit you said about black people was a terrible attempt at \"edgy\" humour, but now you're talking about wanting to be a police officer.",
     "...you get angry when I text other people.",
     "...you \"accidentally\" kicked me in the head repeatedly to check if I was really asleep.",
-    // "...I'm just having a really rough time. It's not you.\n\nJust kidding. You suck.",
     "...I'm just having a really rough time. It's not you.\r\n\r\nJust kidding. You suck.",
     "...you don't want to actually try. You just want to be broken together, but I'm not broken.",
     "...you think that the funniest kind of humour is what you call \"racial humour\", but you don't manage the \"humour\" part, so you're actually just racist.",
@@ -49,7 +48,10 @@ const reasonsArray = [
     "...you said that you didn't understand my \"accent.\" Why the fuck did you ask me out if you didn't understand what I was saying?",
     "...you're so awkward.",
     "...you're boring. So am I, but it doesn't mean that I'm obligated to put up with this.",
-    "...that evening with you genuinely felt like some kind of filibuster was taking place."
+    "...that evening with you genuinely felt like some kind of filibuster was taking place.",
+    "...you're just not my best option right now, and I genuinely am sorry about that.",
+    "...you can't take a hint.",
+    "...if you really can't understand my accent, then why are you still contacting me?"
 ];
 
 // alternative colours
