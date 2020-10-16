@@ -51,7 +51,14 @@ const reasonsArray = [
     "...that evening with you genuinely felt like some kind of filibuster was taking place.",
     "...you're just not my best option right now, and I genuinely am sorry about that.",
     "...you can't take a hint.",
-    "...if you really can't understand my accent, then why are you still contacting me?"
+    "...if you really can't understand my accent, then why are you still contacting me?",
+    "...you claimed that your eyes change colour according to your mood.",
+    "...you asked me why I didn't believe in astrology as though it were some kind of weird quirk on my part. Haha, fuck off.",
+    "...I feel like you're about to call me a \"normie\" and Naruto-run away.",
+    "...you're too tall. Like, how would that even work?",
+    "...you're one of those people who's super proud of their interests as though they're achievements, and I just don't respect that.",
+    "...I think I may have been into the fact that you're Australian, but you don't still have the accent, so there's kind of no point.",
+    "...no."
 ];
 
 // alternative colours
