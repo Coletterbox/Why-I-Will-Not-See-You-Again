@@ -18,14 +18,17 @@
     text-align: center;
     /* margin: 2em; */
     /* top: 30%; */
+    /* height: 100%; */
 }
 
 #container {
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
-    white-space: pre-line;
+    /* justify-content: space-around; */
+    /* justify-content: space-between; */
+    /* justify-items: stretch; */
+    /* align-items: center; */
+    /* white-space: pre-line; */
     /* justify-items: flex-end; */
 }
 
