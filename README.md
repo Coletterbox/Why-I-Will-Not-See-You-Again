@@ -15,7 +15,7 @@ If the reason you get doesn't sound like you, you can just take another spin! :)
 ## To Do:
 - [x] Make the background colour change at random.
 - [ ] Add reasons that are less... weirdly specific.
-- [ ] Fix the layout.
+- [ ] Fix the layout (the refresh button should not move based on the amount of text).
 - [x] Change the button styling.
 - [x] Fix contrast and aesthetic issues caused by the background colours.
 - [x] Check that the last items of the arrays are being accessed.
