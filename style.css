@@ -23,6 +23,7 @@
 
 body, html {
   height: 100%;
+  box-sizing: border-box;
 }
 
 #container {
@@ -58,6 +59,9 @@ p {
 .text {
     font-family: 'Noto Sans JP', sans-serif;
     font-size: 2.5em;
+}
+.btn, .btn:hover {
+    cursor: pointer;
 }
 
 #refresh {
