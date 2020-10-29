@@ -21,6 +21,10 @@
     /* height: 100%; */
 }
 
+body, html {
+  height: 100%;
+}
+
 #container {
     display: flex;
     flex-direction: column;
@@ -30,6 +34,8 @@
     /* align-items: center; */
     /* white-space: pre-line; */
     /* justify-items: flex-end; */
+    align-items: center;
+    justify-content: center;
 }
 
 p {
