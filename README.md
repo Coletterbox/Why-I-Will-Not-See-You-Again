@@ -24,3 +24,5 @@ If the reason you get doesn't sound like you, you can just take another spin! :)
 - [x] Prevent array items from being chosen twice in a row.
 - [ ] Check accessibility.
 - [ ] Check responsiveness.
+
+![](https://media.giphy.com/media/Uj0EfX0uDRSvu/giphy.gif)
