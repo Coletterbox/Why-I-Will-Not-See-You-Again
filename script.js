@@ -58,7 +58,8 @@ const reasonsArray = [
     "...you're too tall. Like, how would that even work?",
     "...you're one of those people who's super proud of their interests as though they're achievements, and I just don't respect that.",
     "...I think I may have been into the fact that you're Australian, but you don't still have the accent, so there's kind of no point.",
-    "...no."
+    "...no.",
+    "Fuck off, Michael."
 ];
 
 // alternative colours
