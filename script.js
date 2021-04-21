@@ -59,7 +59,8 @@ const reasonsArray = [
     "...you're one of those people who's super proud of their interests as though they're achievements, and I just don't respect that.",
     "...I think I may have been into the fact that you're Australian, but you don't still have the accent, so there's kind of no point.",
     "...no.",
-    "Fuck off, Michael."
+    "Fuck off, Michael.",
+    "...the way you said you were a \"software engineer\" while I happen to know you're a QA tester just makes me sad. It's like a mirror to my own insecurities. But the thing is that even if I got a Computer Science degree and my job title was \"software engineer\", I'd be thinking about how \"engineer\" is a protected term in some countries, and it wouldn't be enough."
 ];
 
 // alternative colours
