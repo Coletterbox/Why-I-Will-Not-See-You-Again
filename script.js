@@ -60,7 +60,12 @@ const reasonsArray = [
     "...I think I may have been into the fact that you're Australian, but you don't still have the accent, so there's kind of no point.",
     "...no.",
     "Fuck off, Michael.",
-    "...the way you said you were a \"software engineer\" while I happen to know you're a QA tester just makes me sad. It's like a mirror to my own insecurities. But the thing is that even if I got a Computer Science degree and my job title was \"software engineer\", I'd be thinking about how \"engineer\" is a protected term in some countries, and it wouldn't be enough."
+    "...the way you said you were a \"software engineer\" while I happen to know you're a QA tester just makes me sad. It's like a mirror to my own insecurities. But the thing is that even if I got a Computer Science degree and my job title was \"software engineer\", I'd be thinking about how \"engineer\" is a protected term in some countries, and it wouldn't be enough.",
+    "...\"Should of.\" You \"should of\" \[sic\] finished learning English before you started learning Mandarin, you illiterate fetishist.",
+    "...you phrased it as \"How will your day be today?\" and that makes me angry for some reason.",
+    "...four Asian girlfriends in a row?!",
+    "...three Asian girlfriends in a row.",
+    "...you keep doing this infantile thing where the things you say aren't what you mean and everything is some kind of tactic or game."
 ];
 
 // alternative colours
