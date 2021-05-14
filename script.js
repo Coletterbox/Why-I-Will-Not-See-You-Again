@@ -65,7 +65,8 @@ const reasonsArray = [
     "...you phrased it as \"How will your day be today?\" and that makes me angry for some reason.",
     "...four Asian girlfriends in a row?!",
     "...three Asian girlfriends in a row.",
-    "...you keep doing this infantile thing where the things you say aren't what you mean and everything is some kind of tactic or game."
+    "...you keep doing this infantile thing where the things you say aren't what you mean and everything is some kind of tactic or game.",
+    "...when someone is not feeling okay and you automatically jump to pretending you've assumed it's because of something to do with environmental issues (because OF COURSE the only things that could affect YOUR mood are issues outside of yourself and your life, and OBVIOUSLY everyone should be the same way), you're being dismissive of the idea that it's valid for someone to be upset about their own life, which would be fine if it were an accidental side effect of you genuinely being this way, but I'm calling bullshit."
 ];
 
 // alternative colours
