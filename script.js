@@ -69,7 +69,8 @@ const reasonsArray = [
     "...when someone is not feeling okay and you automatically jump to pretending you've assumed it's because of something to do with environmental issues (because OF COURSE the only things that could affect YOUR mood are issues outside of yourself and your life, and OBVIOUSLY everyone should be the same way), you're being dismissive of the idea that it's valid for someone to be upset about their own life, which would be fine if it were an accidental side effect of you genuinely being this way, but I'm calling bullshit.",
     "...you're the kind of person who takes pictures with famous people just because they're famous.",
     "...I haven't seen you in years and I've forgotten how you sound and how you move, and because of your weird emoji use, all the mannerisms I've started to picture you with are stupid as fuck.",
-    "...I really fucking hate this new quirk of yours where you use an exclamation mark instead of a question mark EVERY SINGLE TIME. Why? (\"Why!\") I haven't seen you use a question mark in months, and it's super ridiculous especially when it's shit like, \"How are you!\" just every fucking time."
+    "...I really fucking hate this new quirk of yours where you use an exclamation mark instead of a question mark EVERY SINGLE TIME. Why? (\"Why!\") I haven't seen you use a question mark in months, and it's super ridiculous especially when it's shit like, \"How are you!\" just every fucking time.",
+    "...I guess I need to accept that if it feels one-sided, it's because it is. There are no mixed signals happening, only \"go away\" signals, plus denial on my part. It's been too hard trying to read your mind the way you seem to expect me to, but I think I'm finally getting the general message."
 ];
 
 // alternative colours
