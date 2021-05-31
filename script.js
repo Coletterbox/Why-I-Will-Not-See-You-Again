@@ -73,7 +73,8 @@ const reasonsArray = [
     "...I guess I need to accept that if it feels one-sided, it's because it is. There are no mixed signals happening, only \"go away\" signals, plus denial on my part. It's been too hard trying to read your mind the way you seem to expect me to, but I think I'm finally getting the general message.",
     "...holy shit, I did not expect that someone would assume that they were blocked on WhatsApp because a picture disappeared, but what an... interesting... way to find out.",
     "...I know Reddit teaches you incels about \"breaking the touch barrier\"... You're supposed to gauge the person's reaction; it's not supposed to be like, \"Okay, I've touched her elbow, so that means I've given myself consent to go further.\"",
-    "...I would have rather woken up in a less... interesting way."
+    "...I would have rather woken up in a less... interesting way.",
+    "...you're not a good enough distraction."
 ];
 
 // alternative colours
