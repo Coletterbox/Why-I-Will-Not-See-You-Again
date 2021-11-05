@@ -75,7 +75,8 @@ const reasonsArray = [
     "...I would have rather woken up in a less... interesting way.",
     "...you're not a good enough distraction.",
     "...I wonder if you'd be so arrogant if you knew that your flat smells like sewage.",
-    "...if you play hard to get, I'm calling your bluff. How many chances did you think you had?"
+    "...if you play hard to get, I'm calling your bluff. How many chances did you think you had?",
+    "...the thing you told me in October 2020 was the thirstiest shit I've ever heard and it still pops into my head sometimes."
 ];
 
 // alternative colours
