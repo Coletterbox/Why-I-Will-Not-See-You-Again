@@ -74,7 +74,8 @@ const reasonsArray = [
     "...I know Reddit teaches you incels about \"breaking the touch barrier\"... You're supposed to gauge the person's reaction; it's not supposed to be like, \"Okay, I've touched her elbow, so that means I've given myself consent to go further.\"",
     "...I would have rather woken up in a less... interesting way.",
     "...you're not a good enough distraction.",
-    "...I wonder if you'd be so arrogant if you knew that your flat smells like sewage."
+    "...I wonder if you'd be so arrogant if you knew that your flat smells like sewage.",
+    "...if you play hard to get, I'm calling your bluff. How many chances did you think you had?"
 ];
 
 // alternative colours
