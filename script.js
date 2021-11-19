@@ -78,7 +78,8 @@ const reasonsArray = [
     "...if you play hard to get, I'm calling your bluff. How many chances did you think you had?",
     "...the thing you told me in October 2020 was the thirstiest shit I've ever heard and it still pops into my head sometimes.",
     "...I'm too used to not having you around or speaking to you or thinking about you, now.",
-    "...I don't have your number anymore."
+    "...I don't have your number anymore.",
+    "...if you deliberately make me unhappy, it's not on me to put the effort into fixing it. I can respond if you make it easy for me, otherwise this is finally it."
 ];
 
 // alternative colours
