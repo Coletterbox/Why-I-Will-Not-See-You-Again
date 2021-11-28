@@ -79,9 +79,8 @@ const reasonsArray = [
     "...the thing you told me in October 2020 was the thirstiest shit I've ever heard and it still pops into my head sometimes.",
     "...I'm too used to not having you around or speaking to you or thinking about you, now.",
     "...I don't have your number anymore.",
-    "...if you deliberately make me unhappy, it's not on me to put the effort into fixing it. I can respond if you make it easy for me, otherwise this is finally it.",
     "...other people actually put the effort in and don't have a one-track mind. I'm still rooting for you, but you're going to run out of time.",
-    "...you missed your deadline for damage control in 2020, so I'm only going to agree to see you if I get bored or lonely this weekend. Weirdly, the spamming is kind of endearing, though... (I'm not ignoring you; I'm thinking.)"
+    "...if random people on the internet are good enough for you, I don't want you anymore. That would just be a waste."
 ];
 
 // alternative colours
