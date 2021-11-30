@@ -80,7 +80,8 @@ const reasonsArray = [
     "...I'm too used to not having you around or speaking to you or thinking about you, now.",
     "...I don't have your number anymore.",
     "...other people actually put the effort in and don't have a one-track mind. I'm still rooting for you, but you're going to run out of time.",
-    "...if random people on the internet are good enough for you, I don't want you anymore. That would just be a waste."
+    "...if random people on the internet are good enough for you, I don't want you anymore. That would just be a waste.",
+    "...you got distant, so I lost interest. I used to really want to hear from you. Now when I see your name, I'm disappointed."
 ];
 
 // alternative colours
