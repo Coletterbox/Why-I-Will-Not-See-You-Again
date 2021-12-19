@@ -83,7 +83,9 @@ const reasonsArray = [
     "...if random people on the internet are good enough for you, I don't want you anymore. That would just be a waste.",
     "...you got distant, so I lost interest. I used to really want to hear from you. Now when I see your name, I'm disappointed.",
     "...I need to at least be able to convincingly role-play thinking you're smarter than me.",
-    "...once I start waking up to texts from someone, it's pretty hard for anyone else to compete."
+    "...once I start waking up to texts from someone, it's pretty hard for anyone else to compete.",
+    "...I really wish I could keep convincing myself that you didn't not care about me, but you won't give me the tiniest reason. I don't remember the last time you even pretended.",
+    "...every time I feel like I have to let someone go but I'm finding it hard, I imagine them doing The Thing That They Do That's Super Embarrassing, and without intervention that image gradually gets burned in my mind."
 ];
 
 // alternative colours
