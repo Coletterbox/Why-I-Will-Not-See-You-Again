@@ -85,7 +85,23 @@ const reasonsArray = [
     "...I need to at least be able to convincingly role-play thinking you're smarter than me.",
     "...once I start waking up to texts from someone, it's pretty hard for anyone else to compete.",
     "...I really wish I could keep convincing myself that you didn't not care about me, but you won't give me the tiniest reason. I don't remember the last time you even pretended.",
-    "...every time I feel like I have to let someone go but I'm finding it hard, I imagine them doing The Thing That They Do That's Super Embarrassing, and without intervention that image gradually gets burned in my mind."
+    "...every time I feel like I have to let someone go but I'm finding it hard, I imagine them doing The Thing That They Do That's Super Embarrassing, and without intervention that image gradually gets burned in my mind.",
+    "...you\'re taking up a slot in my mind that I need to fill with someone I can talk to.",
+    "...it\'s not my fault you can\'t be nice unless you\'re in a good mood.",
+    "...it was always insulting how little effort you seemed to think I deserved.",
+    "...you chose to let me believe that you weren\'t interested. It\'s too late to be upset that it worked.",
+    "...you\'re a pervert and your SJW-ness always feels performative.",
+    "...your attempts to not look needy or desperate have just been dickish and neglectful.",
+    "...I\'m fed up of people whose insecurities make them decide to play hard to get for more validation, or to protect themselves - whichever - just stop being selfish.",
+    "...you lied about your height by SIX INCHES when your real height was fine. Why?",
+    "...you waited three days to text me; two exes and multiple new people hit me up in that time.",
+    "...I can either let you take me for granted forever, or let you go and relish the thought of you getting rejected by people that, in your eyes, don\'t even compare to me.",
+    "...you\'re not even that nice to me, and when I (gently) point it out, you get angry.",
+    "...the bar was on the fucking ground. All you had to do was stay in regular contact and be nice to me most of the time and you would have won.",
+    "...it always felt like your aim was to put in the minimum amount of effort needed to get what you wanted out of me. I miss the time when you at least thought that more than a brief interaction once a week was enough to keep me around.",
+    "...other people value me more, and it\'s insulting that you don\'t realise that. Or maybe you figured out that I liked you better, and you started to take advantage.",
+    "...I can see that you\'re just going to continue to be mean as hell and try to bring me down every time you remember that I\'m not exclusively yours, even though you\'ve never attempted to make that happen. You don\'t want to commit to treating me properly and actually being there, but you want me to somehow not have better options.",
+    "...you will always get defensive if I have an issue with you, and nothing will ever be fixed."
 ];
 
 // alternative colours
