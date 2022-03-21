@@ -101,7 +101,8 @@ const reasonsArray = [
     "...it always felt like your aim was to put in the minimum amount of effort needed to get what you wanted out of me. I miss the time when you at least thought that more than a brief interaction once a week was enough to keep me around.",
     "...other people value me more, and it\'s insulting that you don\'t realise that. Or maybe you figured out that I liked you better, and you started to take advantage.",
     "...I can see that you\'re just going to continue to be mean as hell and try to bring me down every time you remember that I\'m not exclusively yours, even though you\'ve never attempted to make that happen. You don\'t want to commit to treating me properly and actually being there, but you want me to somehow not have better options.",
-    "...you will always get defensive if I have an issue with you, and nothing will ever be fixed."
+    "...you will always get defensive if I have an issue with you, and nothing will ever be fixed.",
+    "...I have a rule against fucking anyone I've ever not been in contact with for 60 days, and that was all you seemed to want out of me anyway."
 ];
 
 // alternative colours
